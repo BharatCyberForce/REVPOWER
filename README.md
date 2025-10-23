@@ -3,7 +3,8 @@ Reverrse IP Lookup
 
 
 
-## Linux/Mac
-
-```chmod +x revpower```
-```./revpower```
+## Support Linux
+```
+chmod +x revpower
+./revpower
+```
